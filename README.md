@@ -3,9 +3,9 @@ High concenpt:
 
 Nome do Jogo: Scientific Colonization.
 
-Descrição: Defesa de torres ambientado em um planeta desconhecido e com criaturas hóstis querendo destruir a colônia.
+Descrição: Defesa de torres ambientado em um planeta desconhecido e com criaturas hostis querendo destruir a colônia.
 
-Gênero: 3D, casual, defesa de torres, estratégia.
+Gênero: 3D, casual, defesa de torres, estratégia, roguelike.
 
 Mecânicas: vitória por árvore de pesquisa e chegar lvl 20 da horda, Gerar pontos de ciência, ia das armas e inimigos.
 
