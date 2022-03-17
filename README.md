@@ -10,7 +10,7 @@ Gênero: 3D, casual, defesa de torres, estratégia, roguelike.
 Mecânicas: vitória por árvore de pesquisa e chegar lvl 20 da horda, barra de vida, salvar o progresso localmente, Gerar pontos de ciência, ia das armas e inimigos.
 
 História: A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida hostil presente 
-neles e a meta dos exploradores é neutralizar as ameaças para alcançar o progresso.
+neles e a meta dos exploradores é neutralizar as ameaças para alcançar o objetivo.
 
 Diferencial: quando passar uma horda receberá recompensas e alguns monstros tem chance de derrubar recompensas também.
 
