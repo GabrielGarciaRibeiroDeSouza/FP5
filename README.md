@@ -5,9 +5,9 @@ Nome do Jogo: Scientific Colonization.
 
 Descrição: Defesa de torres ambientado em um planeta desconhecido e com criaturas hostis querendo destruir a sua colônia.
 
-Gênero: 3D, casual, defesa de torres, estratégia, roguelike.
+Gênero: 3D, casual, defesa de torres, estratégia.
 
-Mecânicas: vitória por árvore de pesquisa e chegar lvl 20 da horda, barra de vida, salvar o progresso localmente, Gerar pontos de ciência, ia das armas e inimigos.
+Mecânicas: vitória por chegar lvl 20 da horda, barra de vida, ia das armas e inimigos.
 
 História: A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida hostil presente 
 neles e a meta dos exploradores é neutralizar as ameaças para alcançar o objetivo.
