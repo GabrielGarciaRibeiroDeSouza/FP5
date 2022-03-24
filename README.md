@@ -1,4 +1,4 @@
-# FP5 - Scientific Colonization
+# FP5 - Murango
 High concenpt:
 
 Nome do Jogo: Scientific Colonization.
@@ -7,10 +7,9 @@ Descrição: Defesa de torres ambientado em um planeta desconhecido e com criatu
 
 Gênero: 3D, casual, defesa de torres, estratégia.
 
-Mecânicas: vitória por chegar lvl 20 da horda, barra de vida, ia das armas e inimigos.
+Mecânicas: Hordas de inimigos, barra de vida, ia das armas e inimigos.
 
-História: A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida hostil presente 
-neles e a meta dos exploradores é neutralizar as ameaças para alcançar o objetivo.
+História: A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
 
 Diferencial: quando passar uma horda receberá recompensas e alguns monstros tem chance de derrubar recompensas também.
 
