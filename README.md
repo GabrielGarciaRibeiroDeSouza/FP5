@@ -23,7 +23,7 @@ Equipe: Gabriel Garcia R. de Souza
 
 Desenvolvimento: 4 meses.
 
-<div align="center" style ="text-align: justify">
+<div align="center">
   <h1>GDD</h1>
     
   <h2>Scientific colonization</h2>
@@ -36,7 +36,7 @@ Desenvolvimento: 4 meses.
   <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
 </div>
 
-<div text-align="justify">
+<div style ="text-align: justify">
   <h2 align="center">História</h2>
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
   hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
