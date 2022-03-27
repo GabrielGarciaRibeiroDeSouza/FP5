@@ -35,6 +35,7 @@ Desenvolvimento: 4 meses.
  
   <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
 </div>
+
 <div>
   <h2 align="center">História</h2>
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
@@ -59,4 +60,11 @@ Desenvolvimento: 4 meses.
    <p>pausa - esc.</p>
    
    <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022</p>
+  
+   <h2 align="center">Mundo do jogo</h2>
+   O jogador se envolve em um game de defesa de torres 3D com uma inteligência artificial livre, em outras palavras a I.A. não vai seguir um “caminho” pré definido
+   como é o padrão de outros jogos do mesmo gênero. O clima do planeta é árido com rochas negras. A sequência do jogo é embasada em ondas de monstros ao finalizar as
+   ondas, o jogador tem a opção de chamar a próxima onda clicando em um botão “Pronto”.
+   <p>Gênero: 3D, casual, defesa de torres, estratégia</p>
+
 </div>
