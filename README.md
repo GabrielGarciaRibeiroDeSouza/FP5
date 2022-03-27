@@ -38,16 +38,12 @@ Desenvolvimento: 4 meses.
 
 <div >
   <h2 align="center">História</h2>
-  A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
-  hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
+  A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
     
   <h2 align="center">Jogo</h2>
-   Após estabelecer uma colônia em um planeta os monstros irão a atacar sem medo, inicialmente uma horda de monstros fracos vai atacar, mas não os subestime pois seus
-   números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
+   Após estabelecer uma colônia em um planeta os monstros irão a atacar sem medo, inicialmente uma horda de monstros fracos vai atacar, mas não os subestime pois seus números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
   
-   <p>A progressão da dificuldade vai ser baseado em criaturas com mais vida, força, velocidade e quantidade de monstros, chegando a um limite para não ficar
-   impossível de vencer. Para o jogador superar essa dificuldade ele vai precisar comprar melhorias para as armas em campo de batalha ou comprar mais; a aquisição de
-   novas habilidades e armas precisa de moedas que é nomeada como Syncoin.
+   <p>A progressão da dificuldade vai ser baseado em criaturas com mais vida, força, velocidade e quantidade de monstros, chegando a um limite para não ficar impossível de vencer. Para o jogador superar essa dificuldade ele vai precisar comprar melhorias para as armas em campo de batalha ou comprar mais; a aquisição de novas habilidades e armas precisa de moedas que é nomeada como Syncoin.
      
    <p>As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre e ganha uma quantidade um pouco maior ao passar a onda.
    <p>Cada onda tem 1 horda de monstros, não muda o mapa, mas muda a direção em que eles iniciam o ataque.
@@ -62,14 +58,11 @@ Desenvolvimento: 4 meses.
    <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022</p>
   
    <h2 align="center">Mundo do jogo</h2>
-   O jogador se envolve em um game de defesa de torres 3D com uma inteligência artificial livre, em outras palavras a I.A. não vai seguir um “caminho” pré definido
-   como é o padrão de outros jogos do mesmo gênero. O clima do planeta é árido com rochas negras. A sequência do jogo é embasada em ondas de monstros, ao finalizar as
-   ondas, o jogador tem a opção de chamar a próxima onda clicando em um botão “Pronto”.
+   O jogador se envolve em um game de defesa de torres 3D com uma inteligência artificial livre, em outras palavras a I.A. não vai seguir um “caminho” pré definido como é o padrão de outros jogos do mesmo gênero. O clima do planeta é árido com rochas negras. A sequência do jogo é embasada em ondas de monstros, ao finalizar as ondas, o jogador tem a opção de chamar a próxima onda clicando em um botão “Pronto”.
    <p>Gênero: 3D, casual, defesa de torres, estratégia</p>
   
    <h2 align="center">Experiência de jogo</h2>
-   <p>A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais
-   conveniente que ela comece quando o jogador desejar. O mapa é pequeno para ter uma gameplay mais rápida.</p>
+   <p>A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais conveniente que ela comece quando o jogador desejar. O mapa é pequeno para ter uma gameplay mais rápida.</p>
    <p></p>
    <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
   
@@ -95,7 +88,7 @@ Desenvolvimento: 4 meses.
   <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquinaDeEstadoArma.png" style="width:600px;height:500px;">
   <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquina%20de%20estado%20inimigo.png" style="width:600px;height:500px;">
   <p></p>
-  <h2 align="center">Cenas de cortes & Materail bônus</h2>
+  <h2 align="center">Cenas de cortes & Material bônus</h2>
   <p>será usado cenas do jogo para cenas de corte.</p>
   O período de suporte para o jogo vai ser de 5 meses, prevendo melhorias nas mecânicas, correção de bugs e adição de mecânicas para aumentar a qualidade geral e o alcance do público.
 </div>
