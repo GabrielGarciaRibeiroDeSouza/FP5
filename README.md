@@ -23,7 +23,7 @@ Equipe: Gabriel Garcia R. de Souza
 
 Desenvolvimento: 4 meses.
 
-<div>
+<div align="center">
 <h1>GDD<h1>
   <h2>Scientific colonization<h2>
     as
@@ -31,4 +31,4 @@ Desenvolvimento: 4 meses.
     ddd
     
     Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
-<div>
+</div>
