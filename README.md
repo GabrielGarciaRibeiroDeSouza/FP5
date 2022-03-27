@@ -26,12 +26,11 @@ Desenvolvimento: 4 meses.
 <div align="center">
   <h1>GDD<h1>
   <h2>Scientific colonization<h2>
-   Plataforma pretendida: windows
-
-  Público pretendido: fãs de defesa de torre e jogos casuais
-  Classificação pretendida: 14+
-  Data de Publicação: ??/05/2022
-  Documento versão: 2.0
+  <p>Plataforma pretendida: windows</p>
+  <p>Público pretendido: fãs de defesa de torre e jogos casuais
+  <p>Classificação pretendida: 14+
+  <p>Data de Publicação: ??/05/2022
+  <p>Documento versão: 2.0
 
 
     
