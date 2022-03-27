@@ -35,7 +35,7 @@ Desenvolvimento: 4 meses.
 
     
   Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
-  Página 1
+  <p>Página 1
      
   <h2>História</h2>
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
