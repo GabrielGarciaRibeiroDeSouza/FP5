@@ -23,7 +23,7 @@ Equipe: Gabriel Garcia R. de Souza
 
 Desenvolvimento: 4 meses.
 
-<div align="center">
+<div align="center" text-align="justify">
   <h1>GDD</h1>
     
   <h2>Scientific colonization</h2>
