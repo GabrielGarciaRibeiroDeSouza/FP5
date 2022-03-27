@@ -30,4 +30,4 @@ Desenvolvimento: 4 meses.
     asss
     ddd
     
-    <footer>Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com        Data:27/03/2022<footer>
+    <article>Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022<article>
