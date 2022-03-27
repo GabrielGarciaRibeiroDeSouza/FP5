@@ -62,7 +62,7 @@ Desenvolvimento: 4 meses.
    <p>Gênero: 3D, casual, defesa de torres, estratégia</p>
   
    <h2 align="center">Experiência de jogo</h2>
-   <p>A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais conveniente que ela comece quando o jogador desejar. O mapa é pequeno para ter uma gameplay mais rápida.</p>
+   <p style="text-align:justify">A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais conveniente que ela comece quando o jogador desejar. O mapa é pequeno para ter uma gameplay mais rápida.</p>
    <p></p>
    <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
   
