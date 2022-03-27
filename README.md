@@ -25,29 +25,34 @@ Desenvolvimento: 4 meses.
 
 <div align="center">
   <h1>GDD<h1>
+    
   <h2>Scientific colonization<h2>
   <p>Plataforma pretendida: windows</p>
-  <p>Público pretendido: fãs de defesa de torre e jogos casuais
-  <p>Classificação pretendida: 14+
-  <p>Data de Publicação: ??/05/2022
-  <p>Documento versão: 2.0
+  <p>Público pretendido: fãs de defesa de torre e jogos casuais</p>
+  <p>Classificação pretendida: 14+</p>
+  <p>Data de Publicação: ??/05/2022</p>
+  <p>Documento versão: 2.0</p>
 
 
     
   Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
-  <p>Página 1
      
   <h2>História</h2>
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
   hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
     
   <h2>Jogo</h2>
-  
-  Após estabelecer uma colônia em um planeta os monstros irão a atacar sem medo, Inicialmente uma horda de monstros fracos vai atacar,
-  mas não os subestime pois seus   números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
-  Ao matar os monstros ganhara dinheiro para melhorar ou comprar mais armas para sua defesa e depois de sobreviver a 20 ondas vencerá.
+   Após estabelecer uma colônia em um planeta os monstros irão a atacar sem medo, inicialmente uma horda de monstros fracos vai atacar, mas não os subestime pois seus
+   números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
+   A progressão da dificuldade vai ser baseado em criaturas com mais vida, força, velocidade e quantidade de monstros, chegando a um limite para não ficar impossível
+   de vencer. Para o jogador superar essa dificuldade ele vai precisar comprar melhorias para as armas em campo de batalha ou comprar mais; a aquisição de novas
+   habilidades e armas precisa de moedas que é nomeada como Syncoin.
 
+   As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre e ganha uma quantidade um pouco maior ao passar o level.
+   Cada level tem 1 horda de monstros. não muda o mapa, mas muda a direção em que eles iniciam o ataque.
+
+   
+  Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
+    
   
-    
-    
 </div>
