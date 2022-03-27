@@ -75,5 +75,5 @@ Desenvolvimento: 4 meses.
   
   <h2 align="center">Interfaces</h2>
   O clima nas interfaces é de sci-fi e futurista, a música estilo ambiente de espaço, sci-fi e instrumental. 
-  ![](https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/fluxo%20de%20telas.png)
+  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/fluxo%20de%20telas.png">
 </div>
