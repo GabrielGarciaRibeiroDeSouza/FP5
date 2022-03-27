@@ -75,7 +75,7 @@ Desenvolvimento: 4 meses.
   
   <h2 align="center">Interfaces</h2>
   O clima nas interfaces é de sci-fi e futurista, a música estilo ambiente de espaço, sci-fi e instrumental. 
-  <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/fluxo%20de%20telas.png"></p>
+  <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/fluxo%20de%20telas.png" style="width:600px;height:500px;"></p>
   
   <h2 align="center">Mecânicas</h2>
   <li> barra de vida: os monstros/ Armas/ Colônia vão ter a barra de vida em cima da cabeça.</li>
@@ -94,5 +94,8 @@ Desenvolvimento: 4 meses.
   <p></p>
   <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquinaDeEstadoArma.png" style="width:600px;height:500px;">
   <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquina%20de%20estado%20inimigo.png" style="width:600px;height:500px;">
-  
+  <p></p>
+  <h2 align="center">Cenas de cortes & Materail bônus</h2>
+  <p>será usado cenas do jogo para cenas de corte.</p>
+  O período de suporte para o jogo vai ser de 5 meses, prevendo melhorias nas mecânicas, correção de bugs e adição de mecânicas para aumentar a qualidade geral e o alcance do público.
 </div>
