@@ -78,8 +78,8 @@ Desenvolvimento: 4 meses.
   <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/fluxo%20de%20telas.png"></p>
   
   <h2 align="center">Mecânicas</h2>
-  * barra de vida: os monstros/ Armas/ Colônia vão ter a barra de vida em cima da cabeça.
-  * instanciar inimigos:  os inimigos aparece na borda do mapa
-  * Armas: Comprar, posicionar e vender.
-  * coletáveis: terá apenas uma moeda que se chama “Syncoin”, essa moeda é usada para compra de armas e melhorias.
+  <li> barra de vida: os monstros/ Armas/ Colônia vão ter a barra de vida em cima da cabeça.</li>
+  <li> instanciar inimigos:  os inimigos aparece na borda do mapa</li>
+  <li> Armas: Comprar, posicionar e vender.</li>
+  <li> coletáveis: terá apenas uma moeda que se chama “Syncoin”, essa moeda é usada para compra de armas e melhorias.</li>
 </div>
