@@ -32,11 +32,10 @@ Desenvolvimento: 4 meses.
   <p>Classificação pretendida: 14+</p>
   <p>Data de Publicação: ??/05/2022</p>
   <p>Documento versão: 2.0</p>
-
-
-    
+ 
   Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
-     
+</div>
+<div>
   <h2>História</h2>
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
   hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
