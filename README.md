@@ -91,7 +91,7 @@ Desenvolvimento: 4 meses.
   
   <h2 align="center">Inteligência Artificial</h2>
   A inteligência artificial usada é a máquina de estado:
-  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquinaDeEstadoArma.png" style="width: 300px">
+  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquinaDeEstadoArma.png" style="size/2">
   <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquina%20de%20estado%20inimigo.png">
   
 </div>
