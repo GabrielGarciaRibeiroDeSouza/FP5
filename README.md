@@ -23,6 +23,7 @@ Equipe: Gabriel Garcia R. de Souza
 
 Desenvolvimento: 4 meses.
 
+h2{ aling="center" }
 <div align="center">
   <h1>GDD</h1>
     
