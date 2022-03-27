@@ -36,7 +36,7 @@ Desenvolvimento: 4 meses.
   <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
 </div>
 
-<div style ="text-align: justify">
+<div >
   <h2 align="center">História</h2>
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
   hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
@@ -68,8 +68,8 @@ Desenvolvimento: 4 meses.
    <p>Gênero: 3D, casual, defesa de torres, estratégia</p>
   
    <h2 align="center">Experiência de jogo</h2>
-   A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais
-   conveniente que ela comece quando o jogador desejar. O mapa é pequeno para ter uma gameplay mais rápida.
+   <p style ="text-align: justify">A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais
+   conveniente que ela comece quando o jogador desejar. O mapa é pequeno para ter uma gameplay mais rápida.</p>
    <p></p>
    <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
   
