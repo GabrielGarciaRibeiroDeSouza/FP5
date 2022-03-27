@@ -43,14 +43,14 @@ Desenvolvimento: 4 meses.
     
   <h2>Jogo</h2>
    Após estabelecer uma colônia em um planeta os monstros irão a atacar sem medo, inicialmente uma horda de monstros fracos vai atacar, mas não os subestime pois seus
-   números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
+   números irão aumentar e não só em quantidade mas também em vida, força e velocidade.<p>
    A progressão da dificuldade vai ser baseado em criaturas com mais vida, força, velocidade e quantidade de monstros, chegando a um limite para não ficar impossível
    de vencer. Para o jogador superar essa dificuldade ele vai precisar comprar melhorias para as armas em campo de batalha ou comprar mais; a aquisição de novas
    habilidades e armas precisa de moedas que é nomeada como Syncoin.
-
+   <p>
    As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre e ganha uma quantidade um pouco maior ao passar o level.
    Cada level tem 1 horda de monstros. não muda o mapa, mas muda a direção em que eles iniciam o ataque.
-
+   <p>
    
   Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
     
