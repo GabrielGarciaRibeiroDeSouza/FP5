@@ -50,10 +50,14 @@ Desenvolvimento: 4 meses.
    novas habilidades e armas precisa de moedas que é nomeada como Syncoin.
    
    <p>As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre e ganha uma quantidade um pouco maior ao passar a onda.
-   <p>Cada level tem 1 horda de monstros. não muda o mapa, mas muda a direção em que eles iniciam o ataque.
+   <p>Cada onda tem 1 horda de monstros, não muda o mapa, mas muda a direção em que eles iniciam o ataque.
    
-   
-  Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
-    
+   Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
+     
+   <h2>Controles</h2>
+   <p>Interagir com os elementos no game - botão esquerdo do mouse.</p>
+   <p>cancelar ação - botão direito do mouse.</p>
+   <p>pausa - esc.</p>
   
+
 </div>
