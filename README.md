@@ -33,7 +33,7 @@ Desenvolvimento: 4 meses.
   <p>Data de Publicação: ??/05/2022</p>
   <p>Documento versão: 2.0</p>
  
-  Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
+  <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
 </div>
 <div>
   <h2 align="center">História</h2>
@@ -51,12 +51,12 @@ Desenvolvimento: 4 meses.
    <p>As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre e ganha uma quantidade um pouco maior ao passar a onda.
    <p>Cada onda tem 1 horda de monstros, não muda o mapa, mas muda a direção em que eles iniciam o ataque.
    
-   Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
+   <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022</p>
      
    <h2 align="center">Controles</h2>
    <p>Interagir com os elementos no game - botão esquerdo do mouse.</p>
    <p>cancelar ação - botão direito do mouse.</p>
    <p>pausa - esc.</p>
-  
-
+   
+   <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022</p>
 </div>
