@@ -11,7 +11,7 @@ Mecânicas: Hordas de inimigos, barra de vida, ia das armas e inimigos.
 
 História: A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
 
-Diferencial: quando passar uma horda receberá recompensas e alguns monstros tem chance de derrubar recompensas também.
+Diferencial: A inteligência artificial é livre, em outras palavras a I.A. não vai seguir um “caminho” pré definido como é o padrão de outros jogos do mesmo gênero.
 
 sistema operacional: Windows
 
@@ -77,4 +77,9 @@ Desenvolvimento: 4 meses.
   O clima nas interfaces é de sci-fi e futurista, a música estilo ambiente de espaço, sci-fi e instrumental. 
   <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/fluxo%20de%20telas.png"></p>
   
+  <h2 align="center">Mecânicas</h2>
+  -barra de vida: os monstros/ Armas/ Colônia vão ter a barra de vida em cima da cabeça.
+  -instanciar inimigos:  os inimigos aparece na borda do mapa
+  -Armas: Comprar, posicionar e vender.
+  -coletáveis: terá apenas uma moeda que se chama “Syncoin”, essa moeda é usada para compra de armas e melhorias.
 </div>
