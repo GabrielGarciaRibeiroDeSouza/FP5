@@ -68,7 +68,7 @@ Desenvolvimento: 4 meses.
    <p>Gênero: 3D, casual, defesa de torres, estratégia</p>
   
    <h2 align="center">Experiência de jogo</h2>
-   <p style ="text-align: justify">A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais
+   <p>A experiência do jogador é divida em 2 etapas, Planejar a defesa e iniciar o ataque, vale a pena ressaltar que as ondas não vem automaticamente, pois é mais
    conveniente que ela comece quando o jogador desejar. O mapa é pequeno para ter uma gameplay mais rápida.</p>
    <p></p>
    <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
@@ -85,5 +85,13 @@ Desenvolvimento: 4 meses.
   
   <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
   
-  <h2 align="center"></h2>
+  <h2 align="center">Inimigos</h2>
+  <p>Os inimigos fazem ataques em grupos sempre buscando o alvo mais próximo</p>
+  <p>Minion Alien: Um inimigo pequeno e com pouco vida inicialmente, ele vai ganhando vida ao passar as hordas e o ataque é físico.</p>
+  
+  <h2 align="center">Inteligência Artificial</h2>
+  A inteligência artificial usada é a máquina de estado:
+  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquinaDeEstadoArma.png">
+  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/main/Imagens-do-Projeto/maquina%20de%20estado%20inimigo.png">
+  
 </div>
