@@ -24,11 +24,19 @@ Equipe: Gabriel Garcia R. de Souza
 Desenvolvimento: 4 meses.
 
 <div align="center">
-<h1>GDD<h1>
+  <h1>GDD<h1>
   <h2>Scientific colonization<h2>
-    as
-    asss
-    ddd
+   Plataforma pretendida: windows
+
+  Público pretendido: fãs de defesa de torre e jogos casuais
+  Classificação pretendida: 14+
+  Data de Publicação: ??/05/2022
+  Documento versão: 2.0
+
+
     
-    Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
+  Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
+  //p1
+    
+    
 </div>
