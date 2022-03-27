@@ -24,9 +24,9 @@ Equipe: Gabriel Garcia R. de Souza
 Desenvolvimento: 4 meses.
 
 <div align="center">
-  <h1>GDD<h1>
+  <h1>GDD</h1>
     
-  <h2>Scientific colonization<h2>
+  <h2>Scientific colonization</h2>
   <p>Plataforma pretendida: windows</p>
   <p>Público pretendido: fãs de defesa de torre e jogos casuais</p>
   <p>Classificação pretendida: 14+</p>
