@@ -23,7 +23,6 @@ Equipe: Gabriel Garcia R. de Souza
 
 Desenvolvimento: 4 meses.
 
-h2{ aling="center" }
 <div align="center">
   <h1>GDD</h1>
     
@@ -37,7 +36,7 @@ h2{ aling="center" }
   Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
 </div>
 <div>
-  <h2>História</h2>
+  <h2 align="center">História</h2>
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
   hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
     
