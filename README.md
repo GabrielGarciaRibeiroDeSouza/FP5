@@ -40,7 +40,7 @@ Desenvolvimento: 4 meses.
   A ciência alcançou a exploração espacial e agora é comum colonizar outros planetas, porém a maioria dos planetas colonizados tem vida
   hostil presente e a meta dos exploradores é neutralizar essa ameaça para alcançar o objetivo de colonização.
     
-  <h2>Jogo</h2>
+  <h2 align="center">Jogo</h2>
    Após estabelecer uma colônia em um planeta os monstros irão a atacar sem medo, inicialmente uma horda de monstros fracos vai atacar, mas não os subestime pois seus
    números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
   
@@ -53,7 +53,7 @@ Desenvolvimento: 4 meses.
    
    Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022
      
-   <h2>Controles</h2>
+   <h2 align="center">Controles</h2>
    <p>Interagir com os elementos no game - botão esquerdo do mouse.</p>
    <p>cancelar ação - botão direito do mouse.</p>
    <p>pausa - esc.</p>
