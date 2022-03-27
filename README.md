@@ -82,4 +82,8 @@ Desenvolvimento: 4 meses.
   <li> instanciar inimigos:  os inimigos aparece na borda do mapa</li>
   <li> Armas: Comprar, posicionar e vender.</li>
   <li> coletáveis: terá apenas uma moeda que se chama “Syncoin”, essa moeda é usada para compra de armas e melhorias.</li>
+  
+  <p align="center">Gabriel Garcia | email: Gabriel.Garcia.ribeiro@gmail.com     Data:27/03/2022 </p>
+  
+  <h2 align="center"></h2>
 </div>
