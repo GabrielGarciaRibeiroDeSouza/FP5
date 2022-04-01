@@ -5,11 +5,19 @@ using UnityEngine;
 public class Turrent : MonoBehaviour
 {
     private Transform alvo;
-    public float campoDeVisao = 15f;
 
+    [Header("Status da Arma")]
+    public float campoDeVisao = 15f;
+    public float fireRate = 1f;
+    private float fireCountdown = 0f;
+
+    [Header("Configuração da Arma")]
     public Transform eixoRotativo;
     public float turnSpeed;
 
+    public GameObject bulletPrefab;
+    public Transform firePoint;
+    
     void Start()
     {
         //chama o metodo 2 vezes por segundo
@@ -20,7 +28,7 @@ public class Turrent : MonoBehaviour
     {
         if (alvo == null)
         {
-            eixoRotativo.rotation = Quaternion.Euler(0f, 180f, 0f);
+            //eixoRotativo.rotation = Quaternion.Euler(0f, 180f, 0f);
             return;
         }
         //rotação da torreta
@@ -28,7 +36,27 @@ public class Turrent : MonoBehaviour
         Quaternion lookRotation = Quaternion.LookRotation(direction);
         Vector3 rotation = Quaternion.Lerp(eixoRotativo.rotation, lookRotation, Time.deltaTime * turnSpeed).eulerAngles;
         eixoRotativo.rotation = Quaternion.Euler(rotation);
-        
+
+        //tiro da arma
+        if (fireCountdown <= 0f)
+        {
+            Shoot();
+            fireCountdown = 1f / fireRate;
+        }
+
+        fireCountdown -= Time.deltaTime;
+    }
+
+    //função para fazer atirar a bala
+    void Shoot()
+    {
+        GameObject bulletGo = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        Bullet bullet = bulletGo.GetComponent<Bullet>();
+
+        if (bullet != null)
+        {
+            bullet.Perseguir(alvo);
+        }
     }
 
     //esse metodo busca o alvo mais próximo dentro do campo de visão.
