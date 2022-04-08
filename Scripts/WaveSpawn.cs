@@ -8,34 +8,55 @@ public class WaveSpawn : MonoBehaviour
     public Transform enemyPrefab;
     public Transform spawnPoint;
 
-    //subistituir por todos os inimigos morrer;
+    public GameObject[] listaInimigo;
+
+    
     public float timeBetweenWanves = 5f;
     private float countdown = 2f;
 
-    private int waveNumber = 0;
+    private bool nextWave = true;
+    private int waveNumber = 1;
 
+
+    private void Start()
+    {
+        //chama esse função duas vezes por segundo
+        InvokeRepeating("UpdateWave", 0f, 0.5f);
+    }
+
+    void UpdateWave()
+    {
+        listaInimigo = GameObject.FindGameObjectsWithTag("inimigo");
+    }
     void Update()
     {
+        //usa esse esse if para não chamr mais de uma onda.
         if (countdown <= 0f)
         {
-            StartCoroutine(SpawnWave());
+            nextWave = true;
             countdown = timeBetweenWanves;
         }
+   
         countdown -= Time.deltaTime;
     }
-    IEnumerator SpawnWave()
-    {
-        waveNumber += 9;
 
-        for (int i = 0; i < waveNumber; i++)
+    //essa função é chama pelo click no botão "btnNextWave"
+    public void SpawnWave()
+    {
+        //verifica se o array está vazio e se "nextWave" é verdadeiro
+        if (listaInimigo.Length <= 0 && nextWave)
         {
-            SpawnEnemy();
-            yield return new WaitForSeconds(0.5f);
-        }
-        
-        
+            waveNumber += waveNumber;
+
+            for (int i = 0; i < waveNumber; i++)
+            {
+                SpawnEnemy();
+
+            }
+            nextWave = false;
+        }     
     }
-    
+   
     void SpawnEnemy()
     {
         //instancia o inimigo na posição e rotação do tranform "spawnpoint"
