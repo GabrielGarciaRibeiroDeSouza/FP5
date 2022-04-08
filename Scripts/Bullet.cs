@@ -7,6 +7,8 @@ public class Bullet : MonoBehaviour
     private Transform target;
 
     float speed = 70f;
+
+    public int dano = 50;
     void Start()
     {
         
@@ -41,7 +43,20 @@ public class Bullet : MonoBehaviour
 
     void HitTarget()
     {
-        Destroy(target.gameObject);
+        //Destroy(target.gameObject);
         Destroy(gameObject);
+        CausaDano(target);
+    }
+    void CausaDano(Transform enemy)
+    {
+        
+        EnemyState inimigo = enemy.GetComponent<EnemyState>();
+        
+        if (inimigo != null)
+        {
+            inimigo.TomarDano(dano);
+        }
+
+        
     }
 }

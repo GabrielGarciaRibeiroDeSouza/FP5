@@ -11,6 +11,7 @@ public class EnemyState : MonoBehaviour
 
     public NavMeshAgent agent;
     int casos = 0;
+    public int health = 100;
 
     public Vector3 alvo;
     void Start()
@@ -18,7 +19,7 @@ public class EnemyState : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         
@@ -32,6 +33,21 @@ public class EnemyState : MonoBehaviour
 
     }
     
+    public void TomarDano (int qtdDano)
+    {
+        health -= qtdDano;
 
+        if (health <= 0)
+        {
+            Morreu();
+        }
+    }
+
+    void Morreu()
+    {
+        //nessa função pode adicionar recompesa de moedas posteriormente
+
+        Destroy(gameObject);
+    }
 }
 
