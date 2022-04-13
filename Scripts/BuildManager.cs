@@ -22,10 +22,7 @@ public class BuildManager : MonoBehaviour
     public GameObject standardTurrentPrefab;
     private GameObject turrentToBuild;
 
-    private void Start()
-    {
-        turrentToBuild = standardTurrentPrefab;
-    }
+   
 
     //função retorna a torreta para instanciar, é chamada no script "NodeTower"
     public GameObject GetTurrentToBuild()
@@ -33,5 +30,9 @@ public class BuildManager : MonoBehaviour
         return turrentToBuild;
     }
 
+    public void SetTurrentBuild (GameObject turrent)
+    {
+        turrentToBuild = turrent;
+    }
 
 }

@@ -60,6 +60,7 @@ public class Turrent : MonoBehaviour
         {
             bullet.Perseguir(alvo);
         }
+        
     }
 
     //esse metodo busca o alvo mais próximo dentro do campo de visão.

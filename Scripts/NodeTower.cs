@@ -14,14 +14,20 @@ public class NodeTower : MonoBehaviour
 
     public Transform positionTurrent;
 
+    BuildManager buildManager;
     private void Start()
     {
         rend = GetComponent<Renderer>();
         startColor = rend.material.color;
+        buildManager = BuildManager.instance;
     }
 
     private void OnMouseDown()
     {
+        if (buildManager.GetTurrentToBuild() == null)
+        {
+            return;
+        }
         if (turrent != null)
         {
             Debug.Log("Can't build there! ");
@@ -29,11 +35,15 @@ public class NodeTower : MonoBehaviour
         }
 
         //constroi a torreta
-        GameObject turrentToBuild = BuildManager.instance.GetTurrentToBuild();
+        GameObject turrentToBuild = buildManager.GetTurrentToBuild();
         turrent = (GameObject)Instantiate(turrentToBuild, positionTurrent.position + positionOffset, positionTurrent.rotation);
     }
     private void OnMouseEnter()
     {
+        if (buildManager.GetTurrentToBuild() == null)
+        {
+            return;
+        }
         rend.material.color = hoverColor;
     }
     private void OnMouseExit()
