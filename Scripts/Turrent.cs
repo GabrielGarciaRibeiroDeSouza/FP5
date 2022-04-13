@@ -6,10 +6,12 @@ public class Turrent : MonoBehaviour
 {
     private Transform alvo;
 
+    //entre os [] vai criar uma "seção" no inspector com as variaveis públicas abaixo
     [Header("Status da Arma")]
     public float campoDeVisao = 15f;
     public float fireRate = 1f;
     private float fireCountdown = 0f;
+
 
     [Header("Configuração da Arma")]
     public Transform eixoRotativo;
@@ -29,6 +31,7 @@ public class Turrent : MonoBehaviour
         if (alvo == null)
         {
             //eixoRotativo.rotation = Quaternion.Euler(0f, 180f, 0f);
+            //eixoRotativo.rotation = Quaternion.Slerp(transform.rotation, Quaternion.Euler(0, 0, 0), Time.deltaTime);
             return;
         }
         //rotação da torreta
