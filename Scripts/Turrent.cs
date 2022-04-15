@@ -8,6 +8,9 @@ public class Turrent : MonoBehaviour
 
     //entre os [] vai criar uma "seção" no inspector com as variaveis públicas abaixo
     [Header("Status da Arma")]
+    public int health = 100;
+    public BarraDeVida vidaTorreta;
+
     public float campoDeVisao = 15f;
     public float fireRate = 1f;
     private float fireCountdown = 0f;
@@ -24,6 +27,7 @@ public class Turrent : MonoBehaviour
     {
         //chama o metodo 2 vezes por segundo
         InvokeRepeating("UpdateTarget", 0f, 0.5f);
+        vidaTorreta.SetMaxHealth(health);
     }
 
     void Update()
@@ -61,6 +65,24 @@ public class Turrent : MonoBehaviour
             bullet.Perseguir(alvo);
         }
         
+    }
+
+    public void TomarDanoTorreta(int qtdDano)
+    {
+
+        health -= qtdDano;
+        vidaTorreta.SetHealth(health);
+
+        if (health <= 0)
+        {
+            MorreuTorreta();
+        }
+    }
+    void MorreuTorreta()
+    {
+        //nessa função pode adicionar recompesa de moedas posteriormente
+
+        Destroy(gameObject);
     }
 
     //esse metodo busca o alvo mais próximo dentro do campo de visão.
