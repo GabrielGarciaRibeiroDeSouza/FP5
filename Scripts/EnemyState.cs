@@ -10,9 +10,12 @@ public class EnemyState : MonoBehaviour
 {
     private Transform target;
     private int danoMinion = 1;
-    private float atackCooldown = 2f;
-    private float minionAtack = 5;
 
+    public float fireRate = 1f;
+    private float fireCountdown = 0f;
+
+    private bool torreFinal = false;
+    public GameObject goTorreFinal;
 
     public NavMeshAgent agent;
     public Vector3 alvo;
@@ -37,33 +40,58 @@ public class EnemyState : MonoBehaviour
     
     void Update()
     {
+        
         if (target == null)
         {
             return;
         }
+        //cria o direction para medir a distancia no if
         Vector3 direction = alvo - transform.position;
         if (direction.magnitude <= campoDeAtaque)
         {
             //ataque do Minion Alien, faz ele esperar 5segundos para atacar.
-            
-            if (atackCooldown <= 0f)
+            if (fireCountdown <= 0f && torreFinal == false)
             {
                 //substituir pela função de tomar dano da torreta e colônia.
-                CausaDano(target);
-                atackCooldown = 1f / minionAtack;
+
+                CausaDanoTorreta(target);
+                fireCountdown = 1f / fireRate;
+                Debug.Log("esperando lo ataque: ");
             }
 
-            atackCooldown -= Time.deltaTime;  
+            if (fireCountdown <= 0f && torreFinal == true)
+            {
+                Debug.Log("torre final Toma dano");
+                //substituir pela função de tomar dano da torreta e colônia.
+                CausaDanoColonia(target);
+
+                fireCountdown = 1f / fireRate;
+            }
+            //tiro da arma
+            //if (fireCountdown <= 0f)
+            //{
+                
+            //    fireCountdown = 1f / fireRate;
+            //}
+
+            fireCountdown -= Time.deltaTime;
+
         }
         
 
+    }
+    IEnumerator CoolDown()
+    {
+        CausaDanoTorreta(target);
+        yield return new WaitForSecondsRealtime(5);
     }
     #region UpdateTarget
     void UpdateTarget()
     {
         
-        //cria um array com os objetos que estiverem com a tag "inimigo"
+        //cria um array com os objetos que estiverem com a tag "aliado"
         GameObject[] enemies = GameObject.FindGameObjectsWithTag("aliado");
+        
 
         //usa o math.infinity para ter um valor maior que a primeira distancia
         float shortestDistance = Mathf.Infinity;
@@ -82,12 +110,26 @@ public class EnemyState : MonoBehaviour
                 nearestEnemy = enemy;
             }
         }
+        float distanTorreFinal = Vector3.Distance(transform.position, goTorreFinal.transform.position);
+        if (distanTorreFinal <= shortestDistance )
+        {
+            
+            torreFinal = true;
+            
+            nearestEnemy = goTorreFinal;
+            target = nearestEnemy.transform;
+            alvo = nearestEnemy.transform.position;
+        }
 
         if (nearestEnemy != null && shortestDistance <= campoDeVisao)
         {
+            
+            torreFinal = false;
+            //esse target é usado no update
             target = nearestEnemy.transform;
             alvo = nearestEnemy.transform.position;
             agent.SetDestination(alvo);
+            
         }
         else
         {
@@ -117,14 +159,28 @@ public class EnemyState : MonoBehaviour
         Destroy(gameObject);
     }
 
-    void CausaDano(Transform _torreta)
+    
+    void CausaDanoTorreta(Transform _torreta)
     {
-
+        
         Turrent torreta = _torreta.GetComponent<Turrent>();
 
         if (torreta != null)
         {
             torreta.TomarDanoTorreta(danoMinion);
+        }
+
+
+    }
+    void CausaDanoColonia(Transform _colonia)
+    {
+       
+        Colonia colonia = _colonia.GetComponent<Colonia>();
+
+        if (colonia != null)
+        {
+            Debug.Log(" dano: " + danoMinion);
+            colonia.TomarDanoColonia(danoMinion);
         }
 
 
