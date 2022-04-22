@@ -16,7 +16,7 @@ public class Colonia : MonoBehaviour
     
     void Update()
     {
-        Debug.Log("vida da Torre: " + healthTorreFinal);
+        
     }
     public void TomarDanoColonia(int qtdDano)
     {
@@ -33,6 +33,6 @@ public class Colonia : MonoBehaviour
     {
         //nessa função pode adicionar recompesa de moedas posteriormente
 
-        Destroy(this.gameObject);
+        Destroy(gameObject);
     }
 }

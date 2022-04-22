@@ -19,7 +19,7 @@ public class WaveSpawn : MonoBehaviour
     private float countdown = 2f;
 
     private bool nextWave = true;
-    private int waveNumber = 1;
+    private int qtdInimigos = 20;
 
 
     private void Start()
@@ -56,9 +56,9 @@ public class WaveSpawn : MonoBehaviour
         {
             ondaAtual++;
             txtOnda.text = "Wave: " + ondaAtual.ToString();
-            waveNumber += waveNumber;
+            qtdInimigos += qtdInimigos;
 
-            for (int i = 0; i < waveNumber; i++)
+            for (int i = 0; i < qtdInimigos; i++)
             {
                 SpawnEnemy();
 

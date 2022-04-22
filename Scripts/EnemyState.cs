@@ -9,13 +9,12 @@ using UnityEngine.AI;
 public class EnemyState : MonoBehaviour
 {
     private Transform target;
-    private int danoMinion = 1;
+    public int danoMinion = 1;
 
     public float fireRate = 1f;
     private float fireCountdown = 0f;
 
     private bool torreFinal = false;
-    public GameObject goTorreFinal;
 
     public NavMeshAgent agent;
     public Vector3 alvo;
@@ -31,6 +30,7 @@ public class EnemyState : MonoBehaviour
     
     void Start()
     {
+        
         //atribui a quantidade de vida que a barra de vida vai ter
         barraDeVida.SetMaxHealth(health); 
         InvokeRepeating("UpdateTarget", 0f, 1f);
@@ -49,6 +49,7 @@ public class EnemyState : MonoBehaviour
         Vector3 direction = alvo - transform.position;
         if (direction.magnitude <= campoDeAtaque)
         {
+            Debug.Log("bool TorreFinal = " + torreFinal);
             //ataque do Minion Alien, faz ele esperar 5segundos para atacar.
             if (fireCountdown <= 0f && torreFinal == false)
             {
@@ -80,23 +81,23 @@ public class EnemyState : MonoBehaviour
         
 
     }
-    IEnumerator CoolDown()
-    {
-        CausaDanoTorreta(target);
-        yield return new WaitForSecondsRealtime(5);
-    }
+    
     #region UpdateTarget
     void UpdateTarget()
     {
         
         //cria um array com os objetos que estiverem com a tag "aliado"
         GameObject[] enemies = GameObject.FindGameObjectsWithTag("aliado");
+        GameObject[] _torreFinal = GameObject.FindGameObjectsWithTag("torreFinal");
         
+
 
         //usa o math.infinity para ter um valor maior que a primeira distancia
         float shortestDistance = Mathf.Infinity;
         GameObject nearestEnemy = null;
 
+        float shortestDistanceToFinal = Mathf.Infinity;
+        GameObject nearestTorreFinal = null;
 
         foreach (GameObject enemy in enemies)
         {
@@ -110,15 +111,15 @@ public class EnemyState : MonoBehaviour
                 nearestEnemy = enemy;
             }
         }
-        float distanTorreFinal = Vector3.Distance(transform.position, goTorreFinal.transform.position);
-        if (distanTorreFinal <= shortestDistance )
+        foreach (GameObject goTorreFinal in _torreFinal)
         {
-            
-            torreFinal = true;
-            
-            nearestEnemy = goTorreFinal;
-            target = nearestEnemy.transform;
-            alvo = nearestEnemy.transform.position;
+            float distanTorreFinal = Vector3.Distance(transform.position, goTorreFinal.transform.position);
+
+            if (distanTorreFinal < shortestDistanceToFinal)
+            {
+                shortestDistanceToFinal = distanTorreFinal;
+                nearestTorreFinal = goTorreFinal;
+            }
         }
 
         if (nearestEnemy != null && shortestDistance <= campoDeVisao)
@@ -131,11 +132,23 @@ public class EnemyState : MonoBehaviour
             agent.SetDestination(alvo);
             
         }
-        else
+        if (nearestTorreFinal!= null && shortestDistanceToFinal < shortestDistance)
         {
-            
-            agent.SetDestination(alvoPrincipal);
+            nearestEnemy = nearestTorreFinal;
+
+            torreFinal = true;
+            //esse target é usado no update
+            target = nearestEnemy.transform;
+            alvo = nearestEnemy.transform.position;
+            agent.SetDestination(alvo);
         }
+        
+        
+        //else
+        //{
+
+        //    agent.SetDestination(alvoPrincipal);
+        //}
     }
     #endregion
 
