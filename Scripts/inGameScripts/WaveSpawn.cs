@@ -13,17 +13,20 @@ public class WaveSpawn : MonoBehaviour
 
     private int ondaAtual = 1;
     public Text txtOnda;
+
     GameManager GM;
+    private bool listaVazia = false;
     
     public float timeBetweenWanves = 5f;
     private float countdown = 2f;
 
     private bool nextWave = true;
-    private int qtdInimigos = 20;
+    private int qtdInimigos = 1;
 
 
     private void Start()
     {
+        GM = new GameManager();
         //chama esse função duas vezes por segundo
         InvokeRepeating("UpdateWave", 0f, 0.5f);
         txtOnda.text = "Wave: " + ondaAtual.ToString();
@@ -33,14 +36,29 @@ public class WaveSpawn : MonoBehaviour
     {
         listaInimigo = GameObject.FindGameObjectsWithTag("inimigo");
         
+
     }
     void Update()
     {
-       
+        if (listaInimigo.Length <= 0)
+        {
+            listaVazia = true;
+        }
+        else
+        {
+            listaVazia = false;
+        }
+        Debug.Log("Lista tá vazia? " + listaVazia);
+        
+        
 
         //usa esse esse if para não chamr mais de uma onda.
         if (countdown <= 0f)
         {
+            if (ondaAtual == 2 && listaVazia)
+            {
+                GM.Vencer();
+            }
             nextWave = true;
             countdown = timeBetweenWanves;
         }

@@ -7,8 +7,11 @@ public class Colonia : MonoBehaviour
     public BarraDeVida vidaMainTorre;
     private int healthTorreFinal = 100;
 
+    GameManager GM;
+
     void Start()
     {
+        GM = new GameManager();
         healthTorreFinal = 100;
         vidaMainTorre.SetMaxHealth(healthTorreFinal);
     }
@@ -20,7 +23,7 @@ public class Colonia : MonoBehaviour
     }
     public void TomarDanoColonia(int qtdDano)
     {
-        Debug.Log("vida da Torre: " + healthTorreFinal);
+        
         healthTorreFinal -= qtdDano;
         vidaMainTorre.SetHealth(healthTorreFinal);
 
@@ -32,7 +35,7 @@ public class Colonia : MonoBehaviour
     void MorreuTorreP()
     {
         //nessa função pode adicionar recompesa de moedas posteriormente
-
+        GM.GameOver();
         Destroy(gameObject);
     }
 }

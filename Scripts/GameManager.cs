@@ -13,14 +13,13 @@ public class GameManager : MonoBehaviour
             Instance = this;
         }
     }
-    public void Vencer(int condicaoVitoria)
+    public void Vencer()
     {
-        if (condicaoVitoria == 5)
-        {
+        
             print("Vencemo");
-        }
+        
     }
-    void GameOver()
+    public void GameOver()
     {
         //carrega cena de perdeu
         print("perdemo");
