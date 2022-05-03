@@ -48,7 +48,7 @@ public class WaveSpawn : MonoBehaviour
         {
             listaVazia = false;
         }
-        Debug.Log("Lista tá vazia? " + listaVazia);
+        
         
         
 
