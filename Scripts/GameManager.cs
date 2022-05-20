@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -15,13 +16,14 @@ public class GameManager : MonoBehaviour
     }
     public void Vencer()
     {
-        
-            print("Vencemo");
+        SceneManager.LoadScene("Venceu");
+        print("Vencemo");
         
     }
     public void GameOver()
     {
         //carrega cena de perdeu
+        SceneManager.LoadScene("GameOver");
         print("perdemo");
     }
 }

@@ -27,6 +27,7 @@ public class Turrent : MonoBehaviour
     {
         //chama o metodo 2 vezes por segundo
         InvokeRepeating("UpdateTarget", 0f, 0.5f);
+
         vidaTorreta.SetMaxHealth(health);
     }
 

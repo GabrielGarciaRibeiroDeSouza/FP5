@@ -6,7 +6,7 @@ public class LookToCam : MonoBehaviour
 {
     //esse script é usado no canva world space que for acompanhar a camera
 
-    public Camera cam;
+    private Camera cam;
 
     private void Start()
     {

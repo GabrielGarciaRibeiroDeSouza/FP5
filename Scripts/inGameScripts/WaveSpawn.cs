@@ -55,7 +55,7 @@ public class WaveSpawn : MonoBehaviour
         //usa esse esse if para não chamr mais de uma onda.
         if (countdown <= 0f)
         {
-            if (ondaAtual == 2 && listaVazia)
+            if (ondaAtual >= 2 && listaVazia)
             {
                 GM.Vencer();
             }
