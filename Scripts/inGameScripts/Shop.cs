@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Shop : MonoBehaviour
 {
+    public TurrentBlueprint standardTurrent;
+    //public TurrentBlueprint misselLanch;
     BuildManager buildManager;
 
     private void Start()
@@ -11,9 +13,9 @@ public class Shop : MonoBehaviour
         buildManager = BuildManager.instance;
     }
 
-    public void PurchaseStandardTurrent ()
+    public void SelectStandardTurrent ()
     {
-        buildManager.SetTurrentBuild(buildManager.standardTurrentPrefab);
-        Debug.Log("Torreta comprada");
+        buildManager.SelectTurrentToBuild(standardTurrent);
+        Debug.Log("Torreta selecionada");
     }
 }

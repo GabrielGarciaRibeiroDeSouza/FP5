@@ -7,12 +7,13 @@ public class NodeTower : MonoBehaviour
     public Color hoverColor;
     public Vector3 positionOffset;
 
-    private GameObject turrent;
+    [Header("Opcional")]
+    public GameObject turrent;
 
     private Renderer rend;
     private Color startColor;
 
-    public Transform positionTurrent;
+    //public Transform positionTurrent;
 
     BuildManager buildManager;
     private void Start()
@@ -22,9 +23,14 @@ public class NodeTower : MonoBehaviour
         buildManager = BuildManager.instance;
     }
 
+    public Vector3 GetBuildPosition ()
+    {
+        return transform.position + positionOffset;
+    }
+
     private void OnMouseDown()
     {
-        if (buildManager.GetTurrentToBuild() == null)
+        if (!buildManager.CanBuild)
         {
             return;
         }
@@ -34,13 +40,11 @@ public class NodeTower : MonoBehaviour
             return;
         }
 
-        //constroi a torreta
-        GameObject turrentToBuild = buildManager.GetTurrentToBuild();
-        turrent = (GameObject)Instantiate(turrentToBuild, positionTurrent.position + positionOffset, positionTurrent.rotation);
+        buildManager.BuildTurrentOn(this);
     }
     private void OnMouseEnter()
     {
-        if (buildManager.GetTurrentToBuild() == null)
+        if (buildManager.CanBuild)
         {
             return;
         }

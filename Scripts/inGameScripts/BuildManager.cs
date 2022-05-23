@@ -20,17 +20,25 @@ public class BuildManager : MonoBehaviour
     #endregion
 
     public GameObject standardTurrentPrefab;
-    private GameObject turrentToBuild;
+    private TurrentBlueprint turrentToBuild;
 
-   
+    public bool CanBuild { get { return turrentToBuild != null; } }
 
-    //função retorna a torreta para instanciar, é chamada no script "NodeTower"
-    public GameObject GetTurrentToBuild()
+    public void BuildTurrentOn (NodeTower node)
     {
-        return turrentToBuild;
-    }
+        if (PlayerStats.Money < turrentToBuild.cost)
+        {
+            Debug.Log("Not enough money '^'");
+            return;
+        }
+        PlayerStats.Money -= turrentToBuild.cost;
 
-    public void SetTurrentBuild (GameObject turrent)
+        GameObject turrent =  (GameObject)Instantiate(turrentToBuild.prefab,node.GetBuildPosition(), Quaternion.identity);
+        node.turrent = turrent;
+
+        Debug.Log("Money left: " + PlayerStats.Money);
+    }
+    public void SelectTurrentToBuild(TurrentBlueprint turrent)
     {
         turrentToBuild = turrent;
     }
