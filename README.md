@@ -1,9 +1,22 @@
 # FP5 - Murango
 
-<h2> Sumário </h2>
+<h1 align = "Center"> Sumário </h1> 
 
 1. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#-high-concenpt-"> High Concenpt </a>
+
 2. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#gdd"> Game Design Document(GDD) </a>
+2.1.<a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#scientific-colonization"> introdução </a>
+2.2. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#hist%C3%B3ria" > História </a>
+2.3. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#jogo" > Jogo </a>
+2.4. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#controles" > Controles </a>
+2.5. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#mundo-do-jogo" > Mundo do Jogo </a>
+2.6. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#experi%C3%AAncia-de-jogo" > Experinêcia do jogo </a>
+2.7. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#interfaces" > Interfaces </a>
+2.8. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#mec%C3%A2nicas" > Mecânicas </a>
+2.9. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#inimigos" > Inimigos </a>
+2.10. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#intelig%C3%AAncia-artificial" > Inteligência Artificial </a>
+2.11. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#cenas-de-cortes--material-b%C3%B4nus" > Cenas de Cortes e Material Bônus </a>
+
 3. <a href = "" > Ficha técnica de classificação indicativa </a>
 4. <a href = "" >  </a>
 
