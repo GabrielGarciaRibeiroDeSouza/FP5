@@ -15,7 +15,7 @@
 2.8. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#mec%C3%A2nicas" > Mecânicas </a>
 2.9. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#inimigos" > Inimigos </a>
 2.10. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#intelig%C3%AAncia-artificial" > Inteligência Artificial </a>
-2.11. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#cenas-de-cortes--material-b%C3%B4nus" > Cenas de Cortes e Material Bônus </a>
+2.11. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#cenas-de-cortes--material-b%C3%B4nus" > Cenas de Cortes e Material Bônus </a></p>
 
 3. <a href = "" > Ficha técnica de classificação indicativa </a>
 4. <a href = "" >  </a>
