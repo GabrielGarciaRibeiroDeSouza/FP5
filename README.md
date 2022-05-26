@@ -3,7 +3,9 @@
 <h2> Sumário </h2>
 
 1. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#-high-concenpt-"> High Concenpt </a>
-2. <a herf = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#-GDD-"> Game Design Document(GDD) </a>
+2. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#gdd"> Game Design Document(GDD) </a>
+3. <a href = "" > Ficha técnica de classificação indicativa </a>
+4. <a href = "" >  </a>
 
 
 
@@ -27,9 +29,11 @@ Público alvo: Fãs de jogos casuais e defesa de torre.
 
 classificação indicativa: 14+ 
 
-Equipe: Gabriel Garcia R. de Souza
+Equipe: Gabriel Garcia R. de Souza - Geral
 
 Desenvolvimento: 4 meses.
+
+Monetização: Jogo pago com valor máximo de R$10.
 
 <div align="center">
   <h1>GDD</h1>
