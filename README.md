@@ -4,7 +4,7 @@
 
 1. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#-high-concenpt-"> High Concenpt </a>
 
-2. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#gdd"> Game Design Document(GDD) </a>
+2. <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#gdd"> Game Design Document(GDD) </a>
 2.1.<a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/README.md#scientific-colonization"> introdução </a>
 2.2. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#hist%C3%B3ria" > História </a>
 2.3. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#jogo" > Jogo </a>
