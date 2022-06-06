@@ -24,9 +24,9 @@
 
 Nome do Jogo: Scientific Colonization.
 
-Descrição: Defesa de torres ambientado em um planeta desconhecido e com criaturas hostis querendo destruir a sua colônia.
+Descrição: Defesa de torres ambientado em um planeta árido e com criaturas hostis querendo destruir a sua colônia.
 
-Gênero: 3D, casual, defesa de torres, estratégia.
+Gênero: 3D, casual, defesa de torres e estratégia.
 
 Mecânicas: Hordas de inimigos, barra de vida, ia das armas e inimigos.
 
@@ -34,7 +34,9 @@ História: A ciência alcançou a exploração espacial e agora é comum coloniz
 
 Diferencial: A inteligência artificial é livre, em outras palavras a I.A. não vai seguir um “caminho” pré definido como é o padrão de outros jogos do mesmo gênero.
 
-sistema operacional: Windows
+sistema operacional: Windows.
+
+Publicado em: Gamejolt e futuramente na Steam.
 
 Público alvo: Fãs de jogos casuais e defesa de torre.
 
@@ -42,9 +44,11 @@ classificação indicativa: 14+
 
 Equipe: Gabriel Garcia R. de Souza - Geral
 
+Prévia de orçamento: R$ 8.368,00 - <a href = "[https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-](https://docs.google.com/spreadsheets/d/1Q9NGdTU_foMU_Tej16hM8t5JTHK7GBIpvedO_lfSRgk/edit#gid=0)"> Verificar a planilha com o orçamento </a>
+
 Desenvolvimento: 4 meses.
 
-Monetização: Jogo pago com valor máximo de R$10.
+Monetização: Jogo pago com valor de R$10.
 
 <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 
