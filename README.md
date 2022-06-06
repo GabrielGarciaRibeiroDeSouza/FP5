@@ -44,7 +44,7 @@ classificação indicativa: 14+
 
 Equipe: Gabriel Garcia R. de Souza - Geral
 
-Prévia de orçamento: R$ 8.368,00 - <a href = "[https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-](https://docs.google.com/spreadsheets/d/1Q9NGdTU_foMU_Tej16hM8t5JTHK7GBIpvedO_lfSRgk/edit#gid=0)"> Verificar a planilha com o orçamento </a>
+Prévia de orçamento: R$ 8.368,00 - <a href = "https://docs.google.com/spreadsheets/d/1Q9NGdTU_foMU_Tej16hM8t5JTHK7GBIpvedO_lfSRgk/edit#gid=0"> Verificar a planilha com o orçamento </a>
 
 Desenvolvimento: 4 meses.
 
