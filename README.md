@@ -18,7 +18,8 @@
   <p> 2.11. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#cenas-de-cortes--material-b%C3%B4nus" > Cenas de Cortes e Material Bônus </a></p>
 
 <p> 3. <a href = "https://drive.google.com/file/d/1aiI4YkRUBO3bSfLKYMtVYVyEpvuYoXIk/view?usp=sharing" > Manual de Identidade Visual </a>
-<p> 4. <a href = "" > </a>
+<p> 4. <a href = "https://docs.google.com/spreadsheets/d/1tjkrWFz-QY2gx36uCOknKXIPbFCiAJSq2QzYNZi9_3g/edit?usp=sharing" > Cronograma</a>
+<p> 5. <a href = "" > </a>
 
 <h1> High concenpt: </h1>
 
@@ -126,3 +127,5 @@ Monetização: Jogo pago com valor de R$10.
   O período de suporte para o jogo vai ser de 5 meses, prevendo melhorias nas mecânicas, correção de bugs e adição de mecânicas para aumentar a qualidade geral e o alcance do público.
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 </div>
+<p>
+<p><h2>Links importantes
