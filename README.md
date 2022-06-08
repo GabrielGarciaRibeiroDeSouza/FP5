@@ -129,3 +129,10 @@ Monetização: Jogo pago com valor de R$10.
 </div>
 <p>
 <p><h2>Links importantes
+  
+  <p><a href = "https://trello.com/b/2hZJdfH4/fp5-murango" > Trello </a>
+  <p><a href = "https://miro.com/welcomeonboard/bGkwa0VvUXIxVDcwWTlCbjU5dEg1cEFaRWNIcW5WQTV0Y3hqcklLRDJhTFNhWjFKVDFYRDdjcjFrTDRkdDd5dXwzMDc0NDU3MzU0MjUxNzExODY4?invite_link_id=761834856122" > Miro </a>
+  <p><a href = "https://business.facebook.com/Murango-105903698819063/?__cft__[0]=AZUgaLtg267HhTgK_fLdCg3sbQt-d3RZJUFojD8Bs6ohJP49XRoWRIHq-Nq0NhF9WzQdi-giQYO3lSH9yCzY3Axf1029hEyoYWobby-HClJRI1we1E9Bw8BqBpofge4DpS5XQ4jssFCSUQMVx9aVGfP3_tpPEIv3FihYVxaFqEK0og&__tn__=H-R" > Facebook </a>
+   
+  <p> O jogo foi publicado em <a href = "https://gamejolt.com/games/SC/720291" > Gamejolt </a>
+  <p><a href = "https://drive.google.com/drive/folders/1bbPX0-QiwlHPvCEsRprm8p9OKkOjHRwa?usp=sharing" > Google drive </a>
