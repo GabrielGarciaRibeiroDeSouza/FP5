@@ -67,7 +67,7 @@ Monetização: Jogo pago com valor de R$10.
   <p>Público pretendido: fãs de defesa de torre e jogos casuais</p>
   <p>Classificação pretendida: 14+</p>
   <p>Data de Publicação: 25/05/2022 (Pré-Alpha)</p>
-  <p>Documento versão: 2.3</p>
+  <p>Documento versão: 3.1</p>
 
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
   
@@ -79,18 +79,18 @@ Monetização: Jogo pago com valor de R$10.
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
     
   <h2 align="center">Jogo</h2>
-   Após estabelecer uma colônia em um planeta os monstros irão a atacar sem medo, inicialmente uma horda de monstros fracos vai atacar, mas não os subestime pois seus números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
+   Após estabelecer uma colônia em um planeta os monstros irão atacar sem medo, inicialmente uma horda de monstros fracos vai atacar, mas não os subestime pois seus números irão aumentar e não só em quantidade mas também em vida, força e velocidade.
   
-   <p style="text-align:justify">A progressão da dificuldade vai ser baseado em criaturas com mais vida, força, velocidade e quantidade de monstros, chegando a um limite para não ficar impossível de vencer. Para o jogador superar essa dificuldade ele vai precisar comprar melhorias para as armas em campo de batalha ou comprar mais; a aquisição de novas habilidades e armas precisa de moedas que é nomeada como Syncoin.
-     
-   <p>As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre e ganha uma quantidade um pouco maior ao passar a onda.
-   <p>Cada onda tem 1 horda de monstros, não muda o mapa, mas muda a direção em que eles iniciam o ataque.
+   <p style="text-align:justify">A progressão da dificuldade vai ser baseada em criaturas com mais vida, força, velocidade e quantidade de monstros, chegando a um limite para não ficar impossível de vencer. Para o jogador superar essa dificuldade ele vai precisar comprar melhorias para as armas em campo de batalha ou comprar mais; a aquisição de novas habilidades e armas precisa de moedas que é nomeada como Syncoin.
+
+   <p>As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre.
+   <p>Cada onda tem 1 horda de monstros, não muda o mapa.
    <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 
    <h2 align="center">Controles</h2>
    <p>Interagir com os elementos no game - botão esquerdo do mouse.</p>
-   <p>cancelar ação - botão direito do mouse.</p>
-   <p>pausa - esc.</p>
+   <p>
+   <p>
    <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
   
    <h2 align="center">Mundo do jogo</h2>
