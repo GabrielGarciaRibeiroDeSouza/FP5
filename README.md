@@ -1,4 +1,5 @@
 # FP5 - Murango
+<p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Murango.png" style="width:500px;height:500px;"></p>
 
 <h1 align = "Center"> Sumário </h1>
 
@@ -53,10 +54,14 @@ Monetização: Jogo pago com valor de R$10.
 
 <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 
+
+
+
 <div align="center">
   <h1>GDD</h1>
     
   <h2>Scientific colonization</h2>
+    <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Scientific%20colonization1.png" style="width:600px;height:500px;"></p>
   <p>Plataforma pretendida: windows</p>
   <p>Público pretendido: fãs de defesa de torre e jogos casuais</p>
   <p>Classificação pretendida: 14+</p>
@@ -136,3 +141,5 @@ Monetização: Jogo pago com valor de R$10.
    
   <p> O jogo foi publicado em <a href = "https://gamejolt.com/games/SC/720291" > Gamejolt </a>
   <p><a href = "https://drive.google.com/drive/folders/1bbPX0-QiwlHPvCEsRprm8p9OKkOjHRwa?usp=sharing" > Google drive </a>
+    
+    <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
