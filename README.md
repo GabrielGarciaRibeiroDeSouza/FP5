@@ -128,7 +128,7 @@ Monetização: Jogo pago com valor de R$10.
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 </div>
 <p>
-<p><h2>Links importantes
+<p><h2>Links importantes</h2>
   
   <p><a href = "https://trello.com/b/2hZJdfH4/fp5-murango" > Trello </a>
   <p><a href = "https://miro.com/welcomeonboard/bGkwa0VvUXIxVDcwWTlCbjU5dEg1cEFaRWNIcW5WQTV0Y3hqcklLRDJhTFNhWjFKVDFYRDdjcjFrTDRkdDd5dXwzMDc0NDU3MzU0MjUxNzExODY4?invite_link_id=761834856122" > Miro </a>
