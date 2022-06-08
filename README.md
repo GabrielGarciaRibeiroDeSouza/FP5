@@ -153,4 +153,4 @@ Monetização: Jogo pago com valor de R$10.
   <p> O jogo foi publicado em <a href = "https://gamejolt.com/games/SC/720291" > Gamejolt </a>
   <p><a href = "https://drive.google.com/drive/folders/1bbPX0-QiwlHPvCEsRprm8p9OKkOjHRwa?usp=sharing" > Google drive </a>
     
-    <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
+  <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
