@@ -1,5 +1,5 @@
 # FP5 - Murango
-<p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Murango.png" style="width:500px;height:500px;"></p>
+<div align="center"> <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Murango.png" style="width:500px;height:500px;"></p> </div>
 
 <h1 align = "Center"> Sumário </h1>
 
@@ -61,7 +61,7 @@ Monetização: Jogo pago com valor de R$10.
   <h1>GDD</h1>
     
   <h2>Scientific colonization</h2>
-    <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Scientific%20colonization1.png" style="width:600px;height:500px;"></p>
+    <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Scientific%20colonization1.png" style="width:700px;height:500px;"></p>
   <p>Plataforma pretendida: windows</p>
   <p>Público pretendido: fãs de defesa de torre e jogos casuais</p>
   <p>Classificação pretendida: 14+</p>
