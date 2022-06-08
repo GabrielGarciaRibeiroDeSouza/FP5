@@ -22,6 +22,7 @@
 <p> 4. <a href = "https://docs.google.com/spreadsheets/d/1tjkrWFz-QY2gx36uCOknKXIPbFCiAJSq2QzYNZi9_3g/edit?usp=sharing" > Cronograma</a>
 <p> 5. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#links-importantes" > Links importantes </a>
 
+
 <h1> High concenpt: </h1>
 
 Nome do Jogo: Scientific Colonization.
@@ -130,8 +131,18 @@ Monetização: Jogo pago com valor de R$10.
   <h2 align="center">Cenas de cortes & Material bônus</h2>
   <p>será usado cenas do jogo para cenas de corte.</p>
   O período de suporte para o jogo vai ser de 5 meses, prevendo melhorias nas mecânicas, correção de bugs e adição de mecânicas para aumentar a qualidade geral e o alcance do público.
+  
+  <p> Assets de terceiros utilizados no projeto:
+    <p>https://assetstore.unity.com/packages/2d/textures-materials/metals/yughues-free-metal-materials-12949#publisher
+    <p>https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717#description
+    <p>https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964#description
+  
+  
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 </div>
+
+
+
 <p>
 <p><h2>Links importantes</h2>
   
