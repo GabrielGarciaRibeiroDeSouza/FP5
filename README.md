@@ -21,7 +21,7 @@
 <p> 3. <a href = "https://drive.google.com/file/d/1aiI4YkRUBO3bSfLKYMtVYVyEpvuYoXIk/view?usp=sharing" > Manual de Identidade Visual </a>
 <p> 4. <a href = "https://docs.google.com/spreadsheets/d/1tjkrWFz-QY2gx36uCOknKXIPbFCiAJSq2QzYNZi9_3g/edit?usp=sharing" > Cronograma</a>
 <p> 5. <a href = "https://docs.google.com/spreadsheets/d/1Q9NGdTU_foMU_Tej16hM8t5JTHK7GBIpvedO_lfSRgk/edit#gid=0"> Orçamento </a>
-<p> 6. <a href = "https://docs.google.com/spreadsheets/d/1Q9NGdTU_foMU_Tej16hM8t5JTHK7GBIpvedO_lfSRgk/edit#gid=0"> Fluxograma de produção </a>
+<p> 6. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#fluxograma-de-produ%C3%A7%C3%A3o"> Fluxograma de produção </a>
 <p> 7. <a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#links-importantes" > Links importantes </a>
 
 
@@ -70,7 +70,7 @@ Monetização: Jogo pago com valor de R$10.
   <p>Classificação pretendida: 14+</p>
   <p>Data de Publicação: 25/05/2022 (Pré-Alpha)</p>
   <p>Email: murango.contato@gmail.com
-  <p>Documento versão: 4.0</p>
+  <p>Documento versão: 4.3</p>
 
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
   
@@ -148,6 +148,7 @@ Monetização: Jogo pago com valor de R$10.
 <p>
 <p><h2>Fluxograma de produção</h2>
 <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Fluxograma%20de%20produ%C3%A7%C3%A3o.png" style="width:960px;height:620px;"></p>
+<p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 <p>
 <p><h2>Links importantes</h2>
   
