@@ -99,7 +99,7 @@ Monetização: Jogo pago com valor de R$10.
    O jogador se envolve em um game de defesa de torres 3D com uma inteligência artificial livre, em outras palavras a I.A. não vai seguir um “caminho” pré definido como é o padrão de outros jogos do mesmo gênero. O clima do planeta é árido com rochas negras. A sequência do jogo é embasada em ondas de monstros, ao finalizar as ondas, o jogador tem a opção de chamar a próxima onda clicando em um botão “Pronto”.
    <p>Gênero: 3D, casual, defesa de torres, estratégia</p>
   
-  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/em%20jogo%2001.png" style="width:800px;height:600px;"></p>
+  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/em%20jogo%2001.png" style="width:900px;height:600px;"></p>
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 
    <h2 align="center">Experiência de jogo</h2>
@@ -150,11 +150,11 @@ Monetização: Jogo pago com valor de R$10.
 <p>
 <p><h2>Links importantes</h2>
   
-  <p><a href = "https://trello.com/b/2hZJdfH4/fp5-murango" > Trello </a>
-  <p><a href = "https://miro.com/welcomeonboard/bGkwa0VvUXIxVDcwWTlCbjU5dEg1cEFaRWNIcW5WQTV0Y3hqcklLRDJhTFNhWjFKVDFYRDdjcjFrTDRkdDd5dXwzMDc0NDU3MzU0MjUxNzExODY4?invite_link_id=761834856122" > Miro </a>
-  <p><a href = "https://business.facebook.com/Murango-105903698819063/?__cft__[0]=AZUgaLtg267HhTgK_fLdCg3sbQt-d3RZJUFojD8Bs6ohJP49XRoWRIHq-Nq0NhF9WzQdi-giQYO3lSH9yCzY3Axf1029hEyoYWobby-HClJRI1we1E9Bw8BqBpofge4DpS5XQ4jssFCSUQMVx9aVGfP3_tpPEIv3FihYVxaFqEK0og&__tn__=H-R" > Facebook </a>
+  <p><a href = "https://trello.com/b/2hZJdfH4/fp5-murango" > Trello </a> - Ferramenta para gerenciamento de projeto
+  <p><a href = "https://miro.com/welcomeonboard/bGkwa0VvUXIxVDcwWTlCbjU5dEg1cEFaRWNIcW5WQTV0Y3hqcklLRDJhTFNhWjFKVDFYRDdjcjFrTDRkdDd5dXwzMDc0NDU3MzU0MjUxNzExODY4?invite_link_id=761834856122" > Miro </a> - Ferramenta para gerenciamento de projeto e brainstorm
+  <p><a href = "https://business.facebook.com/Murango-105903698819063/?__cft__[0]=AZUgaLtg267HhTgK_fLdCg3sbQt-d3RZJUFojD8Bs6ohJP49XRoWRIHq-Nq0NhF9WzQdi-giQYO3lSH9yCzY3Axf1029hEyoYWobby-HClJRI1we1E9Bw8BqBpofge4DpS5XQ4jssFCSUQMVx9aVGfP3_tpPEIv3FihYVxaFqEK0og&__tn__=H-R" > Facebook </a> - Rede Social
    
-  <p> O jogo foi publicado em <a href = "https://gamejolt.com/games/SC/720291" > Gamejolt </a>
-  <p><a href = "https://drive.google.com/drive/folders/1bbPX0-QiwlHPvCEsRprm8p9OKkOjHRwa?usp=sharing" > Google drive </a>
+  <p> O jogo foi publicado em <a href = "https://gamejolt.com/games/SC/720291" > Gamejolt </a> 
+  <p><a href = "https://drive.google.com/drive/folders/1bbPX0-QiwlHPvCEsRprm8p9OKkOjHRwa?usp=sharing" > Google drive </a> - Repositório e ferramenta para gerenciamento do projeto
     
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
