@@ -69,7 +69,7 @@ Monetização: Jogo pago com valor de R$10.
   <p>Classificação pretendida: 14+</p>
   <p>Data de Publicação: 25/05/2022 (Pré-Alpha)</p>
   <p>Email: murango.contato@gmail.com
-  <p>Documento versão: 3.1</p>
+  <p>Documento versão: 4.0</p>
 
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
   
@@ -86,7 +86,7 @@ Monetização: Jogo pago com valor de R$10.
    <p style="text-align:justify">A progressão da dificuldade vai ser baseada em criaturas com mais vida, força, velocidade e quantidade de monstros, chegando a um limite para não ficar impossível de vencer. Para o jogador superar essa dificuldade ele vai precisar comprar melhorias para as armas em campo de batalha ou comprar mais; a aquisição de novas habilidades e armas precisa de moedas que é nomeada como Syncoin.
 
    <p>As Syncoin são derrubadas em pequena quantidade de todos os monstros quando morre.
-   <p>Cada onda tem 1 horda de monstros, não muda o mapa.
+   <p>São 5 ondas, não muda o mapa.
    <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 
    <h2 align="center">Controles</h2>
@@ -98,6 +98,8 @@ Monetização: Jogo pago com valor de R$10.
    <h2 align="center">Mundo do jogo</h2>
    O jogador se envolve em um game de defesa de torres 3D com uma inteligência artificial livre, em outras palavras a I.A. não vai seguir um “caminho” pré definido como é o padrão de outros jogos do mesmo gênero. O clima do planeta é árido com rochas negras. A sequência do jogo é embasada em ondas de monstros, ao finalizar as ondas, o jogador tem a opção de chamar a próxima onda clicando em um botão “Pronto”.
    <p>Gênero: 3D, casual, defesa de torres, estratégia</p>
+  
+  <img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/em%20jogo%2001.png" style="width:800px;height:600px;"></p>
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
 
    <h2 align="center">Experiência de jogo</h2>
