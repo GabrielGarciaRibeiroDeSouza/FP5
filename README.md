@@ -63,11 +63,12 @@ Monetização: Jogo pago com valor de R$10.
   <h1>GDD</h1>
     
   <h2>Scientific colonization</h2>
-    <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Scientific%20colonization1.png" style="width:700px;height:500px;"></p>
+    <p><img src="https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango/blob/master/Imagens-do-Projeto/Logo%20Scientific%20colonization1.png" style="width:800px;height:500px;"></p>
   <p>Plataforma pretendida: windows</p>
   <p>Público pretendido: fãs de defesa de torre e jogos casuais</p>
   <p>Classificação pretendida: 14+</p>
   <p>Data de Publicação: 25/05/2022 (Pré-Alpha)</p>
+  <p>Email: murango.contato@gmail.com
   <p>Documento versão: 3.1</p>
 
   <p><a href = "https://github.com/GabrielGarciaRibeiroDeSouza/FP5-Murango#-sum%C3%A1rio-"> Voltar para o Sumário </a></p>
