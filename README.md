@@ -153,7 +153,7 @@ Monetização: Jogo pago com valor de R$10.
 <p><h2>Links importantes</h2>
   
   <p><a href = "https://trello.com/b/2hZJdfH4/fp5-murango" > Trello </a> - Ferramenta para gerenciamento de projeto
-  <p><a href = "https://miro.com/welcomeonboard/bGkwa0VvUXIxVDcwWTlCbjU5dEg1cEFaRWNIcW5WQTV0Y3hqcklLRDJhTFNhWjFKVDFYRDdjcjFrTDRkdDd5dXwzMDc0NDU3MzU0MjUxNzExODY4?invite_link_id=761834856122" > Miro </a> - Ferramenta para gerenciamento de projeto e brainstorm
+  <p><a href = "https://miro.com" > Miro </a> - Ferramenta para gerenciamento de projeto e brainstorm
   <p><a href = "https://business.facebook.com/Murango-105903698819063/?__cft__[0]=AZUgaLtg267HhTgK_fLdCg3sbQt-d3RZJUFojD8Bs6ohJP49XRoWRIHq-Nq0NhF9WzQdi-giQYO3lSH9yCzY3Axf1029hEyoYWobby-HClJRI1we1E9Bw8BqBpofge4DpS5XQ4jssFCSUQMVx9aVGfP3_tpPEIv3FihYVxaFqEK0og&__tn__=H-R" > Facebook </a> - Rede Social
    
   <p> O jogo foi publicado em <a href = "https://gamejolt.com/games/SC/720291" > Gamejolt </a> 
